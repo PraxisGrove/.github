@@ -113,7 +113,6 @@
 
 <div align="center" style="margin-top: 15px;">
   <img src="https://komarev.com/ghpvc/?username=praxisgrove" alt="访问量" />
-  <img src="https://img.shields.io/github/followers/praxisgrove.svg?label=关注" alt="GitHub 关注者">
 </div>
 
 ---
