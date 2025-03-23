@@ -105,10 +105,10 @@
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/@PraxisGrove"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="28" /></a>
-  <a href="https://space.bilibili.com/PraxisGrove"><img src="https://img.shields.io/badge/bilibili-%2300A1D6.svg?style=for-the-badge&logo=bilibili&logoColor=white" height="28" /></a>
-  <a href="https://www.xiaohongshu.com/user/profile/PraxisGrove"><img src="https://img.shields.io/badge/小红书-%23FF2442.svg?style=for-the-badge&logo=xiaohongshu&logoColor=white" height="28" /></a>
-  <a href="https://www.douyin.com/user/PraxisGrove"><img src="https://img.shields.io/badge/抖音-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" height="28" /></a>
+  <a href="https://www.youtube.com/@praxisgrove"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="28" /></a>
+  <a href="https://space.bilibili.com/606067853"><img src="https://img.shields.io/badge/bilibili-%2300A1D6.svg?style=for-the-badge&logo=bilibili&logoColor=white" height="28" /></a>
+  <a href="https://www.xiaohongshu.com/user/profile/654a338e000000000400ad00"><img src="https://img.shields.io/badge/小红书-%23FF2442.svg?style=for-the-badge&logo=xiaohongshu&logoColor=white" height="28" /></a>
+  <a href="https://v.douyin.com/gskKVT_rBno"><img src="https://img.shields.io/badge/抖音-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" height="28" /></a>
 </div>
 
 <div align="center" style="margin-top: 15px;">
